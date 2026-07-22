@@ -1,4 +1,4 @@
-# My English skills are terrible xD
+# Developer's English skills are terrible xD
 # Feel free to correct any awkward points!
 
 game.title=3DFreeDriving
@@ -8,9 +8,10 @@ game.exit=Exit
 game.reset=Reset
 game.done=Done
 game.cancel=Cancel
-game.busSeat=Seat {0}
+game.copy=Copy
+game.paste=Paste
 loading.cards=Loading vehicle images.. ({0}%)
-errorCatcher.title=An Error Has Occurred!
+errorLogger.title=An Error Has Occurred!
 rccPhoton.info.connectingToServer=Connecting to photon server
 rccPhoton.info.joinedLobby=Joined lobby
 rccPhoton.info.joiningToRandomFailed=Joining to random room has failed!, Creating new room...
@@ -57,6 +58,7 @@ settingsLobby.title=Game Settings
 settingsLobby.general=General
 settingsLobby.graphics=Graphics
 settingsLobby.account=Account
+settingsLobby.debug=Debug Setttings
 settingsLobby.languages=Languages...
 settingsLobby.general.header1=General Settings
 settingsLobby.general.header2=Advanced Settings
@@ -80,6 +82,9 @@ settingsLobby.graphics.shadowQuality=Shadow Quality
 settingsLobby.graphics.lowResTextures=Low Resolution Textures
 settingsLobby.graphics.realtimeReflection=Realtime Reflection
 settingsLobby.account.header1=Account Settings (WIP)
+settingsLobby.debug.header1=Debug
+settingsLobby.debug.showErrors=Show Error Messages
+settingsLobby.debug.copyLog=Copy Debug Log
 settingsLobby.confirmResetSettings.title=Do you want to reset your settings data?
 settingsLobby.confirmResetSettings.explain=Once reset, data cannot be restored.
 settingsLobby.confirmResetTutorials.title=Do you want to reset your tutorial data?
