@@ -33,6 +33,7 @@ carSelection.lockedCar=Bạn chưa mở khóa xe này!
 carSelection.lockedCar.unlock=Cách mở khóa
 driverSelection.select=Chọn
 paint.chooseColor=Chọn màu
+paint.alpha=Độ trong suốt
 paint.metallic=Ánh kim
 paint.smoothness=Độ bóng
 paint.textureImport.title=Nhập họa tiết tùy chỉnh

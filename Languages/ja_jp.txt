@@ -33,6 +33,7 @@ carSelection.lockedCar=この車両はまだロック解除されていません
 carSelection.lockedCar.unlock=解除方法
 driverSelection.select=選択
 paint.chooseColor=色を選択
+paint.alpha=透明度
 paint.metallic=メタリック
 paint.smoothness=光沢
 paint.textureImport.title=カスタムテクスチャのインポート

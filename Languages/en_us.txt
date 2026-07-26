@@ -34,6 +34,7 @@ carSelection.lockedCar=You haven't unlocked this vehicle yet!
 carSelection.lockedCar.unlock=How to Unlock
 driverSelection.select=Select
 paint.chooseColor=Choose Color
+paint.alpha=Alpha
 paint.metallic=Metallic
 paint.smoothness=Smoothness
 paint.textureImport.title=Import Custom Textures

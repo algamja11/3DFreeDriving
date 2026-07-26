@@ -33,6 +33,7 @@ carSelection.lockedCar=您尚未解锁此车辆！
 carSelection.lockedCar.unlock=解锁方法
 driverSelection.select=选择
 paint.chooseColor=选择颜色
+paint.alpha=透明度
 paint.metallic=金属色
 paint.smoothness=光泽度
 paint.textureImport.title=导入自定义纹理

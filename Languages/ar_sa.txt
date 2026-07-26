@@ -34,6 +34,7 @@ carSelection.lockedCar=لم تقم بفتح هذه المركبة بعد!
 carSelection.lockedCar.unlock=طريقة الفتح
 driverSelection.select=اختيار
 paint.chooseColor=اختيار اللون
+paint.alpha=الشفافية
 paint.metallic=معدني
 paint.smoothness=النعومة
 paint.textureImport.title=استيراد قوام مخصص

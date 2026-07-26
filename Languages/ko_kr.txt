@@ -34,6 +34,7 @@ carSelection.lockedCar=아직 이 차량을 얻지 않으셨습니다!
 carSelection.lockedCar.unlock=얻는 방법 보러가기
 driverSelection.select=선택하기
 paint.chooseColor=색상 선택
+paint.alpha=투명도
 paint.metallic=금속성
 paint.smoothness=광택
 paint.textureImport.title=커스텀 텍스쳐 가져오기
